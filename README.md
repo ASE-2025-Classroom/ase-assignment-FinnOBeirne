@@ -16,27 +16,27 @@ The number in brackets represents the component that each element contributes to
 	At least two documented commits to provided on GitHub Classroom BEFORE 12pm 7th October.
 	At least 5 documented commits.
 	Readme.md file filled in correctly.
-# (NOT) DONE
+#### (NOT) DONE
 #### 2 Unit Tests for basic drawing commands above (1) 
 	Unit Test for moveto command (variables storing pen position are correct)
 	Unit Test for drawTo command (variables storing pen position are correct)
 	Unit Test for a multiline program.
-# (NOT) DONE
+#### (NOT) DONE
 #### 3 XML Comments/documentation produced (1) 
 	Fully documented with XML comments and Documentation web site produced 
-# (NOT) DONE
+#### (NOT) DONE
 #### 4 Exception Handling (1) 
-# (NOT) DONE
+#### (NOT) DONE
 #### 5 Library (DLL) installed and working with reasonable user interface (2)
 	Form interface with program window, output window and run button
 	BOOSE DLL library installed 
 	call about method and display returned information in output/debug window
 	you can use System.Diagnostics to output to the debug window
-# (NOT) DONE
+#### (NOT) DONE
 #### 6 Basic drawing commands of the library are implemented (2)
 	Moveto, circle, rect, pencolour, write.
 	Unrestricted drawing programs can be run (1unrestrictedDrawing.boose)
-# (NOT) DONE
+#### (NOT) DONE
 
 ### [You MUST fill in the this form before submission and submit your zipped up project to myBeckett](https://forms.gle/MJB6vEbgAPXC6A6G8)
 Read the hand in instructions on myBeckett carefully to ensure you are submitting everything correctly, as if you don't you may be subject to a penalty.
@@ -46,35 +46,35 @@ Read the hand in instructions on myBeckett carefully to ensure you are submittin
 #### 1 Further Version Control (1)
 	You must continue to use VC to a professional standard with frequent and clear commits
 	Your Readme.md must be up to date
-# (NOT) DONE
+#### (NOT) DONE
 #### 2 Use of Interfaces (1)
 	Interfaces to be used for all classes where appropriate
-# (NOT) DONE
+#### (NOT) DONE
 #### 3 Further Unit Testing (1)
 	Tests for full program all of the facilities completed in 5,6 and 7 below
 	It is up to you how design your tests (i.e. one test per facility or one test testing many but they must be clearly documented with XML comments)
-# (NOT) DONE
+#### (NOT) DONE
 #### 4 Design Patterns (1)
 	Use of factory Design Pattern for command creation
 	Use of Singleton Design Pattern
 	Demonstrate the use of another design pattern of your choice
 	(for 5,6 and 7 you can click the links to see the example BOOSE programs that must be run, these are in your Portfolio. You must run the unrestricted programs and replace the image already there with an 	image of your BOOSE Interpreter running the BOOSE programs. You may show further programs in your portfolio.)
-# (NOT) DONE
+#### (NOT) DONE
 #### 5 Replaced variables (2) \*
 	Int	
 	Real	
 	Array	
-# (NOT) DONE
+#### (NOT) DONE
 #### 6 Replaced if, while, for (2) \*
 	While 	
 	For	
 	If else	
-# (NOT) DONE
+#### (NOT) DONE
 #### 7 Replaced Methods (2) \*
-# (NOT) DONE
+#### (NOT) DONE
 
 #### 8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2) 
-# (NOT) DONE
+#### (NOT) DONE
 \* You must rewrite the functionality and not try and "hack the system". I've tried to make it so you can't but who knows, either way, you've been told.
 ### [You MUST fill in this form whilst recording your YouTube Video AND submit it to myBeckett](https://forms.gle/j3eMcVbbjQ3sFrXw7)
 
